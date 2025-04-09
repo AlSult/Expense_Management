@@ -1,10 +1,10 @@
-The full and proper description will be added soon.
+#The full and proper description will be added soon.
 
-# Project Name
+## Project Name
 
-# Project Structure
+## Project Structure
 
-# Set up instructions
+## Set up instructions
 
 1. **Clone the repository**:
 2. **Install dependancies**
